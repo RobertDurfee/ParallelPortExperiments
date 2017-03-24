@@ -1,2 +1,2 @@
 # ParallelPortExperiments
-Experiments for a parallel port using C and Linux
+Experiments for a parallel port using C and Linux.
